@@ -19,7 +19,7 @@ function App() {
         <div class="text-h">
           <h1>Say hello to <br></br> ReactJS</h1>
           <p class="w-text">You will learn how to use <br></br>the most popular frontend library,<br></br> and become a super Ninja developer.</p>
-          <a href="https://github.com/IreneCar/lab-hello-react"><button>Awesome!</button></a>
+          <a href="https://imgflip.com/i/5qikpc"><button>Awesome!</button></a>
         </div>
       </header>
 
