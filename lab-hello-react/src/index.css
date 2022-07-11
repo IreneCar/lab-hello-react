@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 2%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.fondo{
+  background-color: black;
+
+}
+
+.h-icons{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: flex-start;
+	align-content: stretch; 
+}
+
+.h-icons img{
+  margin: 3% 5% 3% 5%;
+}
+
+.text-h{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: flex-start;
+	align-content: stretch;
+  margin-left: 5%;
+  text-align: left;
+}
+
+h1{
+  color: white;
+  font-size: 50px;
+}
+
+.w-text{
+  color: white;
+  font-size: 12px;
+}
+
+button{
+  background-color:aliceblue; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 30%;
+  margin-bottom: 60%;
+}
+
+.b-icons{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.b-icons div{
+  text-align: left;
+}
+
+.b-icons img{
+  width: 80px;
+}
+
+h5{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.b-icons div p{
+  font-size: 12px;
+}
